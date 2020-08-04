@@ -45,7 +45,7 @@ section{
 
 .but1 a{
   width: 33%;
-  font-size: 20px;
+  font-size: 22px;
   text-decoration: none;
   color: black;
   text-align: center;
@@ -78,7 +78,7 @@ section{
 }
 
 .sec1 p{
-  font-size: 26px;
+  font-size: 22px;
 }
 
 .li1{
@@ -121,7 +121,7 @@ section{
 .general li{
   margin: 0;
   padding: 0;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   list-style-type: square;
   font-family: 'Rubik';
   font-style: normal;
@@ -430,7 +430,7 @@ textarea{
 }
 .tools{
   height: fit-content;
-  margin-top: 20px;
+  margin-top: 40px;
   padding-bottom: 0;
 }
 .tool h1{
